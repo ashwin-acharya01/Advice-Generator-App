@@ -12,8 +12,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
 
 ## Overview
 
@@ -27,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Sneak Peak](https://user-images.githubusercontent.com/87590123/184545655-208bcb7a-db0e-4927-8a55-7015025d501c.png)
 
 
 ### Links
 
-- Solution URL: [GitHub Repo Link](https://your-solution-url.com)
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- Solution URL: [GitHub Repo Link](https://github.com/ashwin-acharya01/Advice-Generator-App)
+- Live Site URL: [Live Site URL](https://advicegeneratorappfm.netlify.app)
 
 ## My process
 
@@ -45,31 +43,9 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-
-### What I learned
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-
 ## Author
 
-- Frontend Mentor - [Ashwin Acharya](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@Ashwin Acharya](https://www.twitter.com/yourusername)
+- Frontend Mentor - [Ashwin Acharya](https://www.frontendmentor.io/profile/ashwin-acharya01)
+- Twitter - [@Ashwin Acharya](https://twitter.com/AshwinA61109683)
 
 
