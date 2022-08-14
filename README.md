@@ -41,7 +41,10 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- Working With API
+- Vanilla JavaScript
 - Mobile-first workflow
+
 
 ## Author
 
